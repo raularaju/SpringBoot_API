@@ -23,8 +23,6 @@ import org.springframework.test.web.servlet.MockMvc;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;
-import med.voll.api.domain.consulta.DadosAgendamentoConsulta;
-import med.voll.api.domain.consulta.DadosDetalhamentoConsulta;
 import med.voll.api.domain.endereco.DadosEndereco;
 import med.voll.api.domain.endereco.Endereco;
 import med.voll.api.domain.medico.DadosCadastroMedico;
